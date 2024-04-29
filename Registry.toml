@@ -1,0 +1,6 @@
+name = "dannys4Registry"
+uuid = "9f77249a-6fbd-4d26-b4d2-2a8a3a053195"
+repo = "https://github.com/dannys4/dannys4Registry"
+description = "Registry for packages created by dannys4"
+
+[packages]
