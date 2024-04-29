@@ -4,3 +4,4 @@ repo = "https://github.com/dannys4/dannys4Registry"
 description = "Registry for packages created by dannys4"
 
 [packages]
+9d32bc2f-1c07-4c0c-b0b2-5edd4e076357 = { name = "MultivariateExpansions", path = "M/MultivariateExpansions" }
