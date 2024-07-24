@@ -4,5 +4,6 @@ repo = "https://github.com/dannys4/dannys4Registry"
 description = "Registry for packages created by dannys4"
 
 [packages]
+7304c03a-8850-446d-9145-3faedd36b2b6 = { name = "SparseQuadrature", path = "S/SparseQuadrature" }
 9d32bc2f-1c07-4c0c-b0b2-5edd4e076357 = { name = "MultivariateExpansions", path = "M/MultivariateExpansions" }
 b97ecbdf-1535-430e-a7c7-b5702749f368 = { name = "MultiIndexing", path = "M/MultiIndexing" }
