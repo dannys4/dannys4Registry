@@ -4,3 +4,6 @@ julia = "1.7.0-1"
 ["1.0.1-1"]
 MultiIndexing = "1.1.0-1"
 StaticArrays = "1"
+
+["1.1-1"]
+FFTW = "1"
