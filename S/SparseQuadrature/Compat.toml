@@ -1,9 +1,16 @@
 [1]
 julia = "1.7.0-1"
 
-["1.0.1-1"]
+["1.0.1 - 1"]
 MultiIndexing = "1.1.0-1"
+
+["1.0.1 - 2"]
 StaticArrays = "1"
 
-["1.1-1"]
+["1.1 - 1"]
 FFTW = "1"
+
+[2]
+MultiIndexing = "1.1.0 - 1"
+UnivariateApprox = "0.1"
+julia = "1.7.0 - 1"

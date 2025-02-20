@@ -1,9 +1,14 @@
 [1]
 FFTW = "7a1cc6ca-52ef-59f5-83cd-3a7055c09341"
+
+["1 - 2"]
 MultiIndexing = "b97ecbdf-1535-430e-a7c7-b5702749f368"
 
-["1.0.1-1"]
+["1.0.1 - 2"]
 StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
 
-["1.1-1"]
+["1.1 - 1"]
 Serialization = "9e88b42a-f829-5b0c-bbe9-9e923198166b"
+
+[2]
+UnivariateApprox = "549aa1d2-f639-4cc7-b8e4-a7f233081321"
