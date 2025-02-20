@@ -1,0 +1,6 @@
+[0]
+FFTW = "1.8.1 - 1"
+LinearAlgebra = "1.7.0 - *"
+MuladdMacro = "0.2.4 - 0.2"
+Serialization = "1.7.0 - *"
+julia = "1.7.0 - 1"

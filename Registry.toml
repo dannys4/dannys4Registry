@@ -6,6 +6,7 @@ description = "Registry for packages created by dannys4"
 [packages]
 0af289be-425b-4145-9967-cdb935e32293 = { name = "SmallMCMC", path = "S/SmallMCMC" }
 1fffb988-1a3a-4757-b9a7-a23a87666c1e = { name = "TransportBasedInference2", path = "T/TransportBasedInference2" }
+549aa1d2-f639-4cc7-b8e4-a7f233081321 = { name = "UnivariateApprox", path = "U/UnivariateApprox" }
 7304c03a-8850-446d-9145-3faedd36b2b6 = { name = "SparseQuadrature", path = "S/SparseQuadrature" }
 9d32bc2f-1c07-4c0c-b0b2-5edd4e076357 = { name = "MultivariateExpansions", path = "M/MultivariateExpansions" }
 b59f95bf-30b4-47d7-8452-ad9e2f5bb16b = { name = "HierarchicalDA", path = "H/HierarchicalDA" }
