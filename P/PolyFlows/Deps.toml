@@ -1,0 +1,7 @@
+[0]
+ArgCheck = "dce04be8-c92d-5529-be00-80e4d2c0e197"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+MultiIndexing = "b97ecbdf-1535-430e-a7c7-b5702749f368"
+MultivariateExpansions = "9d32bc2f-1c07-4c0c-b0b2-5edd4e076357"
+Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
+UnivariateApprox = "549aa1d2-f639-4cc7-b8e4-a7f233081321"

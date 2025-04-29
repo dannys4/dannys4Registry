@@ -11,3 +11,4 @@ description = "Registry for packages created by dannys4"
 9d32bc2f-1c07-4c0c-b0b2-5edd4e076357 = { name = "MultivariateExpansions", path = "M/MultivariateExpansions" }
 b59f95bf-30b4-47d7-8452-ad9e2f5bb16b = { name = "HierarchicalDA", path = "H/HierarchicalDA" }
 b97ecbdf-1535-430e-a7c7-b5702749f368 = { name = "MultiIndexing", path = "M/MultiIndexing" }
+d4e15501-0d9d-4549-9f50-ef35857235c9 = { name = "PolyFlows", path = "P/PolyFlows" }
