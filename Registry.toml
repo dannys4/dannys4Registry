@@ -8,6 +8,7 @@ description = "Registry for packages created by dannys4"
 1fffb988-1a3a-4757-b9a7-a23a87666c1e = { name = "TransportBasedInference2", path = "T/TransportBasedInference2" }
 549aa1d2-f639-4cc7-b8e4-a7f233081321 = { name = "UnivariateApprox", path = "U/UnivariateApprox" }
 7304c03a-8850-446d-9145-3faedd36b2b6 = { name = "SparseQuadrature", path = "S/SparseQuadrature" }
+9aba715d-5890-400b-b34d-f898fc814636 = { name = "ActiveSubspaceMethods", path = "A/ActiveSubspaceMethods" }
 9d32bc2f-1c07-4c0c-b0b2-5edd4e076357 = { name = "MultivariateExpansions", path = "M/MultivariateExpansions" }
 b59f95bf-30b4-47d7-8452-ad9e2f5bb16b = { name = "HierarchicalDA", path = "H/HierarchicalDA" }
 b97ecbdf-1535-430e-a7c7-b5702749f368 = { name = "MultiIndexing", path = "M/MultiIndexing" }
